@@ -1,0 +1,32 @@
+S.No.,Informations,Values
+1,LeatherName,T21_230912_165731
+2,LeatherSetID,T21
+3,CompanyID,S
+4,Date,12-09-2023
+5,Time,16:57:31
+6,TotalLeatherArea(in sq.ft),4.824931180702005
+7,TotalDefects,249
+8,TotalDefectsArea(in sq.ft),3.90565373213106
+9,GradableLeatherSectionTotalArea(in sq.ft),3.0713353545047846
+10,GradableLeatherSectionDefects,171
+11,GradableLeatherSectionDefectArea(in sq.ft),2.6821959365237396
+12,RightSholderTotalArea(in sq.ft),0.38360126046239995
+13,RightSholderDefects,18
+14, RightSholderDefectArea(in sq.ft),0.28233641437092
+15,LeftSholderTotalArea(in sq.ft),0.38414154392783995
+16,LeftSholderDefects,14
+17,LeftSholderDefectArea(in sq.ft),0.21959498895516
+18,RightButtTotalArea(in sq.ft),1.1500881073937999
+19,RightButtDefects,69
+20, RightButtDefectArea(in sq.ft),1.08228958842186
+21,LeftButtTotalArea(in sq.ft),1.15170794979858
+22,LeftButtDefects,70
+23, LeftButtDefectArea(in sq.ft),1.0979749447757998
+24, UnGradableLeatherSectionTotalArea(in sq.ft),1.7535958261972202
+25,UnGradableLeatherSectionDefects,78
+26,UnGradableLeatherSectionDefectArea(in sq.ft),1.2234577956073198
+27, TotalUsableArea(in sq.ft),0.919277448570945
+28, GradedUsableArea(in sq.ft),0.389139417981045
+29,UsableArea(in %),19.052654103082865
+30,GradedArea(in %),12.670040001014119
+31,GradeOfLeather,5
